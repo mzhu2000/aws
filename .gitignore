@@ -1,0 +1,6 @@
+.idea/
+.terraform/
+.git
+
+**/backend/config.tf
+**/provision/access/mzhu2000-ec2-key*
